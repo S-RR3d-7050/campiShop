@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "title": "Coleman Sundome Tent",
+        "price": 85.99,
+        "description": "A dome tent with a spacious interior and easy setup, ideal for car camping or backpacking.",
+        "category": "tents",
+        "image": "https://newellbrands.imgix.net/896ae227-5968-3191-8fc6-10303b4364b2/896ae227-5968-3191-8fc6-10303b4364b2.tif?auto=format,compress",
+        "rating": {
+            "rate": 4.5,
+            "count": 240
+        }
+    },
+    {
+        "id": 2,
+        "title": "Therm-a-Rest Sleeping Pad",
+        "price": 99.99,
+        "description": "An ultralight, comfortable sleeping pad for backpacking and camping trips.",
+        "category": "sleeping gear",
+        "image": "https://newellbrands.imgix.net/35d1f3e7-9fa4-3047-90f3-0d4bd05fca52/35d1f3e7-9fa4-3047-90f3-0d4bd05fca52.jpeg?auto=format,compress",
+        "rating": {
+            "rate": 4.7,
+            "count": 180
+        }
+    },
+    {
+        "id": 3,
+        "title": "MSR PocketRocket Stove",
+        "price": 44.95,
+        "description": "A compact, lightweight stove for fast and efficient cooking on the trail.",
+        "category": "cooking gear",
+        "image": "https://www.montagnes-magazine.com/media/guide_matos/Bivouac/2023/msr_2023_pocketrocket_2_mini_stove_kit.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 320
+        }
+    },
+    {
+        "id": 4,
+        "title": "Nalgene Wide Mouth Water Bottle",
+        "price": 11.99,
+        "description": "A durable, BPA-free water bottle with a wide mouth for easy filling and cleaning.",
+        "category": "hydration",
+        "image": "https://secondgearwnc.com/cdn/shop/products/16548854862192TN27CHT2MZIAGANL1SR_efa18fa5-0174-4c29-88c8-9d8b6e3d801f.jpg?v=1710424739",
+        "rating": {
+            "rate": 4.9,
+            "count": 450
+        }
+    },
+    {
+        "id": 5,
+        "title": "Osprey Atmos AG 65 Backpack",
+        "price": 269.95,
+        "description": "A high-performance backpack with an anti-gravity suspension system for maximum comfort and ventilation.",
+        "category": "backpacks",
+        "image": "https://www.osprey.com/media/catalog/product/a/t/atmosag65_s22_side_mythicalgreen.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 150
+        }
+    },
+    {
+        "id": 6,
+        "title": "Black Diamond Spot Headlamp",
+        "price": 39.95,
+        "description": "A versatile headlamp with multiple lighting modes and a powerful beam for night-time activities.",
+        "category": "lighting",
+        "image": "https://d1nymbkeomeoqg.cloudfront.net/photos/15/65/278046_18184_XL.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 220
+        }
+    },
+    {
+        "id": 7,
+        "title": "REI Co-op Flash 18 Pack",
+        "price": 39.95,
+        "description": "A lightweight and versatile daypack, perfect for short hikes and everyday use.",
+        "category": "backpacks",
+        "image": "https://d1nymbkeomeoqg.cloudfront.net/photos/25/67/378210_30541_XXL.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 130
+        }
+    },
+    {
+        "id": 8,
+        "title": "Jetboil Flash Cooking System",
+        "price": 109.95,
+        "description": "A fast and efficient cooking system that boils water in just over a minute, ideal for camping and backpacking.",
+        "category": "cooking gear",
+        "image": "https://shoplifestyle.com/cdn/shop/products/FLCBN.jpg?v=1552001127",
+        "rating": {
+            "rate": 4.7,
+            "count": 300
+        }
+    },
+    {
+        "id": 9,
+        "title": "Yeti Rambler 14 oz Mug",
+        "price": 24.99,
+        "description": "A durable and insulated mug that keeps your drinks hot or cold for hours.",
+        "category": "hydration",
+        "image": "https://www.sourceforsports.ca/cdn/shop/products/5165659272863fb6e42165178d987b00.jpg?v=1672787810",
+        "rating": {
+            "rate": 4.8,
+            "count": 190
+        }
+    },
+    {
+        "id": 10,
+        "title": "Marmot Trestles 30 Sleeping Bag",
+        "price": 89.00,
+        "description": "A synthetic sleeping bag that provides warmth and comfort for three-season camping.",
+        "category": "sleeping gear",
+        "image": "https://marmotau.com/cdn/shop/products/23520-4430-lz_2_1200x1200.jpg?v=1623989318",
+        "rating": {
+            "rate": 4.5,
+            "count": 140
+        }
+    },
+    {
+        "id": 21,
+        "title": "Camping Tent for 6 Person",
+        "price": 199.99,
+        "description": "Spacious and easy to set up, this tent is perfect for family camping trips. Waterproof and durable, it provides excellent shelter in all weather conditions.",
+        "category": "camping gear",
+        "image": "https://images.thdstatic.com/productImages/d1e19663-3a6e-4607-9bb7-469b22141bdb/svn/camping-tents-y-ww-eds3-64_600.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 320
+        }
+    },
+    {
+        "id": 22,
+        "title": "Sleeping Bag - 4 Season",
+        "price": 89.95,
+        "description": "A comfortable and warm sleeping bag suitable for all seasons. Compact and lightweight, making it easy to carry on your camping adventures.",
+        "category": "camping gear",
+        "image": "https://m.media-amazon.com/images/I/71G8zKXgjrL._AC_UF1000,1000_QL80_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 280
+        }
+    },
+    {
+        "id": 23,
+        "title": "Portable Camping Stove",
+        "price": 45.99,
+        "description": "Compact and efficient camping stove that allows you to cook meals on the go. Features a stable base and adjustable flame control.",
+        "category": "camping gear",
+        "image": "https://camplux.ca/cdn/shop/products/5310.jpg?v=1676539059",
+        "rating": {
+            "rate": 4.2,
+            "count": 190
+        }
+    },
+    {
+        "id": 24,
+        "title": "Hiking Backpack - 50L",
+        "price": 69.99,
+        "description": "Durable and spacious backpack with multiple compartments for organizing your gear. Includes a rain cover and hydration system compatibility.",
+        "category": "camping gear",
+        "image": "https://m.media-amazon.com/images/I/71uCg26TTiL._AC_UY1000_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 350
+        }
+    },
+    {
+        "id": 25,
+        "title": "Camping Chair - Foldable",
+        "price": 29.95,
+        "description": "Lightweight and foldable camping chair with a sturdy frame. Includes a cup holder and carrying bag for easy transport.",
+        "category": "camping gear",
+        "image": "https://m.media-amazon.com/images/I/61Z9MJJYXZL._AC_UF894,1000_QL80_.jpg",
+        "rating": {
+            "rate": 4.0,
+            "count": 210
+        }
+    },
+    {
+        "id": 26,
+        "title": "LED Camping Lantern",
+        "price": 19.99,
+        "description": "Bright and energy-efficient LED lantern with adjustable brightness levels. Waterproof and durable, perfect for nighttime activities.",
+        "category": "camping gear",
+        "image": "https://m.media-amazon.com/images/I/61y5ra6Ut9L.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 27,
+        "title": "Portable Camping Table",
+        "price": 39.95,
+        "description": "Compact and foldable camping table that is easy to set up and take down. Provides a stable surface for meals and activities.",
+        "category": "camping gear",
+        "image": "https://images.monoprice.com/productlargeimages/428711.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 150
+        }
+    },
+    {
+        "id": 28,
+        "title": "Camping Cookware Set",
+        "price": 59.95,
+        "description": "Complete set of lightweight and durable cookware for camping. Includes pots, pans, utensils, and a carrying case.",
+        "category": "camping gear",
+        "image": "https://m.media-amazon.com/images/I/71SMHWe3S+L._AC_SL1500_.jpg",
+        "rating": {
+            "rate": 4.4,
+            "count": 275
+        }
+    },
+    {
+        "id": 29,
+        "title": "Insulated Camping Cooler",
+        "price": 49.99,
+        "description": "Keeps food and drinks cold for hours. Durable construction with ample storage space and easy-carry handles.",
+        "category": "camping gear",
+        "image": "https://i5.walmartimages.com/asr/dc9e1946-259c-4641-aa77-a51f92aaacb9.c95ce3e9959162c1175d6d814609a996.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+        "rating": {
+            "rate": 4.5,
+            "count": 180
+        }
+    },
+    {
+        "id": 30,
+        "title": "Camping Hammock with Mosquito Net",
+        "price": 34.95,
+        "description": "Comfortable and durable hammock with an integrated mosquito net to keep bugs away. Lightweight and easy to set up.",
+        "category": "camping gear",
+        "image": "https://ontrackoutdoor.com.au/cdn/shop/files/0-FB9-army-green.jpg?v=1705354108&width=1920",
+        "rating": {
+            "rate": 4.7,
+            "count": 220
+        }
+    }
+]
